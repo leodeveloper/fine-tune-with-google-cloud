@@ -1,0 +1,6 @@
+google-cloud-aiplatform
+#The --user flag indicates that the package should be installed only for the current user, rather than system-wide. 
+#--user datasets
+datasets
+#--user google-cloud-pipeline-components
+google-cloud-pipeline-components
